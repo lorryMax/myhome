@@ -1,0 +1,10 @@
+{
+"code":0,
+"msg":"操作成功",
+"data": [
+  {"id":"001","title": "所有客户","checkArr": "0","parentId": "0"},
+  {"id":"001001","title": "小张超市","checkArr": "0","parentId": "001"},
+  {"id":"001002","title": "小明超市","checkArr": "0","parentId": "001"},
+  {"id":"001003","title": "快七超市","checkArr": "0","parentId": "001"}
+]
+}
