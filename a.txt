@@ -24,6 +24,8 @@ update dev1 two
 
 hello dev2 nice welcome!
 
+debug ok!
+
 
 
 
